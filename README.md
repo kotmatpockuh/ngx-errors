@@ -8,6 +8,7 @@
 ngx-errors
 </h1>
 <h4 align="center">A declarative validation errors module for reactive forms.</h4>
+<p>Fork with changed subject.unsubscribe() to subject.complete() and fixed package.json file. Special thanks to @gigioSouza</p>
 
 ---
 
